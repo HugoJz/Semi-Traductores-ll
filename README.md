@@ -35,4 +35,11 @@ Evidencia:
 ![Resultado](https://user-images.githubusercontent.com/84484618/221744061-b7ba34e7-7be6-499a-88a1-61c7d9e1a0f0.png)
 
 
+# **Analizador Sintactico - Objetos**
+
+Evidencia:
+
+![Evidencia](https://user-images.githubusercontent.com/84484618/221749789-2a889397-34dd-47c9-9e33-213c385c2f1a.png)
+
+
 
